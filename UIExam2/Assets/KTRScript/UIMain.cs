@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class UIMain : MonoBehaviour
 {
+    public int test;
     public Panel_GameMenu gameMenu;
     
     // Use this for initialization
